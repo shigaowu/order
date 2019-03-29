@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                   肖广的家常菜
+                   史高武的linux私房菜
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
@@ -26,7 +26,7 @@
                         <img class="nav-user-photo" src="../assets/avatars/user.jpg" alt="Jason's Photo" />
                         <span class="user-info">
                             <small>欢迎光临,</small>
-                           冯佩
+                           罗伟琴
                         </span>
                     </a>
                 </li>
